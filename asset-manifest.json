@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://msanky.github.io/csb-dknj0l/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://msanky.github.io/csb-dknj0l/static/js/main.a082f373.chunk.js",
+    "main.js.map": "https://msanky.github.io/csb-dknj0l/static/js/main.a082f373.chunk.js.map",
+    "runtime-main.js": "https://msanky.github.io/csb-dknj0l/static/js/runtime-main.2ce5b9c7.js",
+    "runtime-main.js.map": "https://msanky.github.io/csb-dknj0l/static/js/runtime-main.2ce5b9c7.js.map",
+    "static/js/2.ac845c30.chunk.js": "https://msanky.github.io/csb-dknj0l/static/js/2.ac845c30.chunk.js",
+    "static/js/2.ac845c30.chunk.js.map": "https://msanky.github.io/csb-dknj0l/static/js/2.ac845c30.chunk.js.map",
+    "index.html": "https://msanky.github.io/csb-dknj0l/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://msanky.github.io/csb-dknj0l/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.ac845c30.chunk.js.LICENSE.txt": "https://msanky.github.io/csb-dknj0l/static/js/2.ac845c30.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2ce5b9c7.js",
+    "static/js/2.ac845c30.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.a082f373.chunk.js"
+  ]
+}
